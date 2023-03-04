@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Backend development**
 
-- 💬 Ask me about **Blockchain, EVM, Web3 and Java**
+- 💬 Ask me about **Blockchain, EVM, Web3, Solidity**
 
 - 📫 How to reach me **vinit.shedekar453@gmail.com**
 
