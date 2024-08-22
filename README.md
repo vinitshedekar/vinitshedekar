@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%">
 
 <h1 align="center">👋 Hello, I'm Vinit Shedekar</h1>
 
@@ -231,4 +231,4 @@ I am a Full-stack developer skilled in JavaScript, React, Next.js, Node.js, and 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%">
